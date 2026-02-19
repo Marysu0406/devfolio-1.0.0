@@ -684,7 +684,7 @@ section,
 --------------------------------------------------------------*/
 .hero {
   width: 100%;
-  min-height: 70vh;
+  min-height: calc(100vh - 92px);
   position: relative;
   padding: 60px 0;
   display: flex;
